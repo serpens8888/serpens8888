@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @serpens8888
 - 👀 I’m interested in ... programming
 - 🌱 I’m currently learning ... graphics programming
-- 💞️ I’m looking to collaborate on ... nothing currently
+- 💞️ I’m looking to collaborate on ... anything really
 - 📫 How to reach me ... idk
