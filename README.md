@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @serpens8888
-- 👀 I’m interested in ... programming
-- 🌱 I’m currently learning ... graphics programming
+- 👀 I’m interested in ... programming, cats, shaders, gaming
+- 🌱 I’m currently learning ... graphics & audio programming
 - 💞️ I’m looking to collaborate on ... anything really
-- 📫 How to reach me ... idk
+- 📫 How to reach me ... rustyruns1@gmail.com
